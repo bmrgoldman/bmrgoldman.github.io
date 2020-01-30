@@ -8,9 +8,8 @@ RepoData
 
 * [Github repository](https://github.com/RepoData/RepoData)
 * [Project blog](https://repositorydata.wordpress.com/)
-* Coverage
-** [How to protect rare books and manuscripts from the ravages of climate change](https://psmag.com/environment/saving-our-archives-from-climate-change), Pacific Standard Magazine 
-** [Climate Change Could Erase Human History. These Archivists Are Trying to Save It](https://www.vice.com/en_us/article/j5yg3g/climate-change-could-erase-human-history-these-archivists-are-trying-to-save-it), VICE 
+* [How to protect rare books and manuscripts from the ravages of climate change](https://psmag.com/environment/saving-our-archives-from-climate-change), Pacific Standard Magazine 
+* [Climate Change Could Erase Human History. These Archivists Are Trying to Save It](https://www.vice.com/en_us/article/j5yg3g/climate-change-could-erase-human-history-these-archivists-are-trying-to-save-it), VICE 
 
 writing
 
