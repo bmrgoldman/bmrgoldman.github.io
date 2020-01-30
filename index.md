@@ -21,3 +21,11 @@ an effort to gather a comprehensive data set of U.S. archival repositories
 ## research
 
 * [American archives and climate change: risks and adaptation](https://www.sciencedirect.com/science/article/pii/S2212096318300135)
+
+## service
+
+* Co-chair of [Response & responsibility: special collections and climate change](http://conference.rbms.info/2019/), 2019 Conference of the Rare Books and Manuscripts (RBMS) Section of ACRL/ALA, Baltimore MD.
+
+## exhibition
+
+* Earth archives: stories of human impact, April 2 - December 20, 2020, Penn State Special Collections Library
