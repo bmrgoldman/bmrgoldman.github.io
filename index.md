@@ -6,7 +6,7 @@ archives, environment, climate change
 
 RepoData
 
-- [Github repository] (https://github.com/RepoData/RepoData)
+- [Github repository](https://github.com/RepoData/RepoData)
 - [Project blog] (https://repositorydata.wordpress.com/)
 - Coverage
 -- [How to protect rare books and manuscripts from the ravages of climate change] (https://psmag.com/environment/saving-our-archives-from-climate-change), Pacific Standard Magazine 
