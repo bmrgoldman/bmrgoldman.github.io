@@ -24,7 +24,7 @@ an effort to gather a comprehensive data set of U.S. archival repositories
 
 ## service
 
-* Co-chair of [Response & responsibility: special collections and climate change](http://conference.rbms.info/2019/), 2019 Conference of the Rare Books and Manuscripts (RBMS) Section of ACRL/ALA, Baltimore MD.
+* Co-chair, [Response & responsibility: special collections and climate change](http://conference.rbms.info/2019/), 2019 Conference of the Rare Books and Manuscripts (RBMS) Section of ACRL/ALA
 
 ## exhibition
 
