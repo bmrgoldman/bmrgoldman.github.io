@@ -11,7 +11,7 @@ archives, environment, climate change
 
 ## writing
 
-* [Remembering Climate Change](https://docs.google.com/document/d/1Cf8yAcqC_PXrThr0371wcO8BRepTBIt_2t5OPDhCyDg/edit)
+* [Remembering climate change](https://docs.google.com/document/d/1Cf8yAcqC_PXrThr0371wcO8BRepTBIt_2t5OPDhCyDg/edit)
 * [It's not easy being green(e): Digital preservation in the age of climate change](https://scholarsphere.psu.edu/concern/generic_works/bvq27zn11p)
 * [Review of Sustainable Thinking: Ensuring Your Library’s Future in an Uncertain World](https://elischolar.library.yale.edu/jcas/vol6/iss1/30/)
 * [Things the grandchildren should know: archives and the origins of an ecocentric future](https://scholarsphere.psu.edu/concern/generic_works/000000046z)
