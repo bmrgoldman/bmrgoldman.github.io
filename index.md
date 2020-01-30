@@ -4,6 +4,8 @@ archives, environment, climate change
 
 ## RepoData
 
+an effort to gather a comprehensive data set of U.S. archival repositories
+
 * [Github repository](https://github.com/RepoData/RepoData)
 * [Project blog](https://repositorydata.wordpress.com/)
 * [How to protect rare books and manuscripts from the ravages of climate change](https://psmag.com/environment/saving-our-archives-from-climate-change), Pacific Standard Magazine 
